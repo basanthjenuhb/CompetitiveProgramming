@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a74b1bf-60a0-4b75-ae98-bc203cedc6bd" name="Default Changelist" comment="" />
+    <list default="true" id="9a74b1bf-60a0-4b75-ae98-bc203cedc6bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/CSES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/CSESStrings/src/WordCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSES/SortingandSearching/SortingandSearching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/LeetCodeStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/src/P1347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/src/P544.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/src/P890.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetcodeStack/src/P456.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/arrays/src/P26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionalProblems/AdditionalProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/AdditionalProblems/AdditionalProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionalProblems/CountingBits/CountingBits.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/AdditionalProblems/CountingBits/CountingBits.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionalProblems/CountingBits/src/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/AdditionalProblems/CountingBits/src/CountingBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdditionalProblems/ShortestSubsequence/src/ShortestSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/src/ShortestSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/CSESStrings/CSESStrings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/CoinCombinationsI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/CoinCombinationsI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/CoinCombinationsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/CoinCombinationsII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/CountSubsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/CountSubsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/DiceCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/DiceCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/MinimizingCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/MinimizingCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/RemovingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/RemovingDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/src/SubsetSumProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/src/SubsetSumProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/DynamicProgramming/DynamicProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/BuildingRoads /src/BuildingRoads.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingRoads /src/BuildingRoads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/BuildingRoads /src/test_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingRoads /src/test_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/BuildingTeams/src/BuildingTeams.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingTeams/src/BuildingTeams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/CountingRooms/CountingRooms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/CountingRooms/src/CountingRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/CountingRooms/src/CountingRooms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/GraphAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/CountingRooms/CountingRooms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/Labyrinth/Labyrinth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/GraphAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/Labyrinth/src/Labyrinth.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/src/Labyrinth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/MessageRoute /MessageRoute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/Labyrinth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/MessageRoute /src/MessageRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /src/MessageRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/RoundTrip/RoundTrip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /MessageRoute.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/RoundTrip/src/RoundTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/src/RoundTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/RoundTrip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/Destination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/FastReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/ShortestRoutesI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/ShortestRoutesI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/src/ShortestRoutesI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/src/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/src/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingandSearching/SortingandSearching.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingandSearching/src/Apartments.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/SortingandSearching/src/Apartments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingandSearching/src/DistinctNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/SortingandSearching/src/DistinctNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingandSearching/src/TrafficLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSES/SortingandSearching/src/TrafficLights.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +70,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +84,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1d4rs9yHWzS8VmgJ0hXKh0EqcYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="compactDirectories" value="true" />
@@ -40,6 +95,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -63,50 +119,53 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSES" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.P542">
-    <configuration name="CoinCombinationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoinCombinationsII" />
-      <module name="DynamicProgramming" />
+  <component name="RunManager" selected="Application.P26">
+    <configuration name="P1347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1347" />
+      <module name="LeetCodeStrings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1143" />
-      <module name="DynamicProgrammingLeetcode" />
+    <configuration name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P26" />
+      <module name="arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P542" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P542" />
-      <module name="LeetcodeMatrix" />
+    <configuration name="P456" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P456" />
+      <module name="LeetcodeStack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P70" />
-      <module name="DynamicProgrammingLeetcode" />
+    <configuration name="P544" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P544" />
+      <module name="LeetCodeStrings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemovingDigits" />
-      <module name="DynamicProgramming" />
+    <configuration name="P890" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P890" />
+      <module name="LeetCodeStrings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P542" />
-        <item itemvalue="Application.RemovingDigits" />
-        <item itemvalue="Application.CoinCombinationsII" />
-        <item itemvalue="Application.P1143" />
-        <item itemvalue="Application.P70" />
+        <item itemvalue="Application.P26" />
+        <item itemvalue="Application.P456" />
+        <item itemvalue="Application.P890" />
+        <item itemvalue="Application.P1347" />
+        <item itemvalue="Application.P544" />
       </list>
     </recent_temporary>
   </component>
@@ -133,45 +192,45 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="563" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1591868396698" />
-    <state width="1638" height="330" key="GridCell.Tab.0.bottom" timestamp="1592574675959">
+    <state width="1638" height="330" key="GridCell.Tab.0.bottom" timestamp="1592636616990">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675959" />
+    <state width="1638" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592636616990" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715285" />
-    <state width="1638" height="330" key="GridCell.Tab.0.center" timestamp="1592574675957">
+    <state width="1638" height="330" key="GridCell.Tab.0.center" timestamp="1592636616988">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675957" />
+    <state width="1638" height="330" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592636616988" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715279" />
-    <state width="1638" height="330" key="GridCell.Tab.0.left" timestamp="1592574675956">
+    <state width="1638" height="330" key="GridCell.Tab.0.left" timestamp="1592636616987">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675956" />
+    <state width="1638" height="330" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592636616987" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715276" />
-    <state width="1638" height="330" key="GridCell.Tab.0.right" timestamp="1592574675958">
+    <state width="1638" height="330" key="GridCell.Tab.0.right" timestamp="1592636616989">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675958" />
+    <state width="1638" height="330" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592636616989" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715282" />
-    <state width="1638" height="330" key="GridCell.Tab.1.bottom" timestamp="1592574675961">
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom" timestamp="1592636617234">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675961" />
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592636617234" />
     <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741819" />
-    <state width="1638" height="330" key="GridCell.Tab.1.center" timestamp="1592574675960">
+    <state width="1638" height="330" key="GridCell.Tab.1.center" timestamp="1592636617233">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675960" />
+    <state width="1638" height="330" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592636617233" />
     <state width="1638" height="330" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741817" />
-    <state width="1638" height="330" key="GridCell.Tab.1.left" timestamp="1592574675959">
+    <state width="1638" height="330" key="GridCell.Tab.1.left" timestamp="1592636617232">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675959" />
+    <state width="1638" height="330" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592636617232" />
     <state width="1638" height="330" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741816" />
-    <state width="1638" height="330" key="GridCell.Tab.1.right" timestamp="1592574675960">
+    <state width="1638" height="330" key="GridCell.Tab.1.right" timestamp="1592636617234">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592574675960" />
+    <state width="1638" height="330" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592636617234" />
     <state width="1638" height="330" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741818" />
     <state x="349" y="164" key="SettingsEditor" timestamp="1592381326204">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -181,10 +240,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="619" y="261" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592267757677" />
-    <state x="234" y="128" key="new project wizard" timestamp="1592573003521">
+    <state x="234" y="128" key="new project wizard" timestamp="1592586209261">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="234" y="128" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1592573003521" />
+    <state x="234" y="128" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1592586209261" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

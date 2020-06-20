@@ -2,31 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AdditionalProblems/AdditionalProblems.iml" filepath="$PROJECT_DIR$/AdditionalProblems/AdditionalProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/AdditionalProblems/AdditionalProblems.iml" filepath="$PROJECT_DIR$/CSES/AdditionalProblems/AdditionalProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/ArraysAndStrings/ArraysAndStrings.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/ArraysAndStrings/ArraysAndStrings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingRoads /BuildingRoads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/BuildingTeams/BuildingTeams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/CSES.iml" filepath="$PROJECT_DIR$/CSES/CSES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/CSESStrings/CSESStrings.iml" filepath="$PROJECT_DIR$/CSES/CSESStrings/CSESStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompetitiveProgramming.iml" filepath="$PROJECT_DIR$/CompetitiveProgramming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AdditionalProblems/CountingBits/CountingBits.iml" filepath="$PROJECT_DIR$/AdditionalProblems/CountingBits/CountingBits.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/CountingRooms/CountingRooms.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/CountingRooms/CountingRooms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/AdditionalProblems/CountingBits/CountingBits.iml" filepath="$PROJECT_DIR$/CSES/AdditionalProblems/CountingBits/CountingBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/CountingRooms/CountingRooms.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/CountingRooms/CountingRooms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/CSES/DynamicProgramming/DynamicProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/DynamicProgrammingLeetcode/DynamicProgrammingLeetcode.iml" filepath="$PROJECT_DIR$/LeetCode/DynamicProgrammingLeetcode/DynamicProgrammingLeetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/GraphAlgorithms.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/GraphAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/GraphAlgorithms.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/GraphAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" filepath="$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Interview.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Interview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/Labyrinth/Labyrinth.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/Labyrinth/Labyrinth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/Labyrinth.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/Labyrinth.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCodeStrings/LeetCodeStrings.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/LeetCodeStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeMatrix/LeetcodeMatrix.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeMatrix/LeetcodeMatrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/MessageRoute /MessageRoute.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/MessageRoute /MessageRoute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeStack/LeetcodeStack.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeStack/LeetcodeStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /MessageRoute.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /MessageRoute.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" filepath="$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" />
       <module fileurl="file://$PROJECT_DIR$/Permutations/Permutations.iml" filepath="$PROJECT_DIR$/Permutations/Permutations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/RoundTrip/RoundTrip.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/RoundTrip/RoundTrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/RoundTrip.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/RoundTrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set1/Set1.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set1/Set1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set2/Set2.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set2/Set2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" filepath="$PROJECT_DIR$/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" filepath="$PROJECT_DIR$/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SortingandSearching/SortingandSearching.iml" filepath="$PROJECT_DIR$/SortingandSearching/SortingandSearching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" filepath="$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSES/SortingandSearching/SortingandSearching.iml" filepath="$PROJECT_DIR$/CSES/SortingandSearching/SortingandSearching.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Strings/Strings.iml" filepath="$PROJECT_DIR$/LeetCode/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoNights/TwoNights.iml" filepath="$PROJECT_DIR$/TwoNights/TwoNights.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/arrays/arrays.iml" filepath="$PROJECT_DIR$/LeetCode/arrays/arrays.iml" />
