@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a74b1bf-60a0-4b75-ae98-bc203cedc6bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/arrays/src/P11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/arrays/src/P33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <recent name="$PROJECT_DIR$/CSES" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11">
+  <component name="RunManager" selected="Application.P33">
     <configuration name="P11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P11" />
       <module name="arrays" />
@@ -83,15 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P1347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1347" />
-      <module name="LeetCodeStrings" />
+    <configuration name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P26" />
+      <module name="arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P26" />
+    <configuration name="P33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P33" />
       <module name="arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P33" />
         <item itemvalue="Application.P11" />
         <item itemvalue="Application.P26" />
         <item itemvalue="Application.P456" />
         <item itemvalue="Application.P890" />
-        <item itemvalue="Application.P1347" />
       </list>
     </recent_temporary>
   </component>
@@ -144,45 +144,45 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="563" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1591868396698" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1592637555898">
+    <state width="1638" height="330" key="GridCell.Tab.0.bottom" timestamp="1592643473043">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592637555898" />
+    <state width="1638" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473043" />
     <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715285" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1592637555897">
+    <state width="1638" height="330" key="GridCell.Tab.0.center" timestamp="1592643473042">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592637555897" />
+    <state width="1638" height="330" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473042" />
     <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715279" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1592637555896">
+    <state width="1638" height="330" key="GridCell.Tab.0.left" timestamp="1592643473042">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592637555896" />
+    <state width="1638" height="330" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473042" />
     <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715276" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1592637555898">
+    <state width="1638" height="330" key="GridCell.Tab.0.right" timestamp="1592643473043">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592637555898" />
+    <state width="1638" height="330" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473043" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592549715282" />
-    <state width="1638" height="330" key="GridCell.Tab.1.bottom" timestamp="1592636645990">
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom" timestamp="1592643473046">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592636645990" />
+    <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473046" />
     <state width="1638" height="330" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741819" />
-    <state width="1638" height="330" key="GridCell.Tab.1.center" timestamp="1592636645989">
+    <state width="1638" height="330" key="GridCell.Tab.1.center" timestamp="1592643473045">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592636645989" />
+    <state width="1638" height="330" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473045" />
     <state width="1638" height="330" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741817" />
-    <state width="1638" height="330" key="GridCell.Tab.1.left" timestamp="1592636645988">
+    <state width="1638" height="330" key="GridCell.Tab.1.left" timestamp="1592643473044">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592636645988" />
+    <state width="1638" height="330" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473044" />
     <state width="1638" height="330" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741816" />
-    <state width="1638" height="330" key="GridCell.Tab.1.right" timestamp="1592636645989">
+    <state width="1638" height="330" key="GridCell.Tab.1.right" timestamp="1592643473046">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="330" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592636645989" />
+    <state width="1638" height="330" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592643473046" />
     <state width="1638" height="330" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592197741818" />
     <state x="349" y="164" key="SettingsEditor" timestamp="1592381326204">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -224,8 +224,11 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="text1[n1]" language="JAVA" />
-        <watch expression="text2[n2]" language="JAVA" />
+        <watch expression="nums[low]" language="JAVA" />
+        <watch expression="nums[high]" language="JAVA" />
+        <watch expression="nums[mid]" language="JAVA" />
+        <watch expression="nums[next]" language="JAVA" />
+        <watch expression="nums[previous]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
