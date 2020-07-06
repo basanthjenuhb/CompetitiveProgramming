@@ -1,12 +1,10 @@
-import java.util.Arrays;
-
 /**
  * @author bjenuhb
  */
 
-public class P1143 {
+public class P583 {
 
-    public int longestCommonSubsequence(String text1, String text2) {
+    public int minDistance(String text1, String text2) {
         int[][] dp = new int[text1.length() + 1][text2.length() + 1];
         for (int i = 0; i < dp.length; i++) {
             for (int j = 0; j < dp[i].length; j++) {
@@ -19,11 +17,8 @@ public class P1143 {
                 }
             }
         }
-        return dp[text1.length()][text2.length()];
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new P1143().longestCommonSubsequence("abcde", "ace"));
+        int lcs = dp[text1.length()][text2.length()];
+        return (text1.length() - lcs) + (text2.length() - lcs);
     }
 
 }

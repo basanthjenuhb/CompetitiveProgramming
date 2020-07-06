@@ -17,10 +17,13 @@
       <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/GraphAlgorithms.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/GraphAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" filepath="$PROJECT_DIR$/Increasing_Array/Increasing_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Interview.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/InterviewAmazon.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/InterviewAmazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeOthers/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeOthers/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/Labyrinth.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/Labyrinth/Labyrinth.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCodeStrings/LeetCodeStrings.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCodeStrings/LeetCodeStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeMatrix/LeetcodeMatrix.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeMatrix/LeetcodeMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeOthers/LeetcodeOthers.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeOthers/LeetcodeOthers.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetcodeStack/LeetcodeStack.iml" filepath="$PROJECT_DIR$/LeetCode/LeetcodeStack/LeetcodeStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /MessageRoute.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/MessageRoute /MessageRoute.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" filepath="$PROJECT_DIR$/Number_Spiral/Number_Spiral.iml" />
@@ -28,13 +31,18 @@
       <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/RoundTrip.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/RoundTrip/RoundTrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set1/Set1.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set1/Set1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set2/Set2.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set2/Set2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set3/Set3.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set3/Set3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Interview/Amazon/Set4/Set4.iml" filepath="$PROJECT_DIR$/LeetCode/Interview/Amazon/Set4/Set4.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" filepath="$PROJECT_DIR$/CSES/GraphAlgorithms/ShortestRoutesI/ShortestRoutesI.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" filepath="$PROJECT_DIR$/CSES/AdditionalProblems/ShortestSubsequence/ShortestSubsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/CSES/SortingandSearching/SortingandSearching.iml" filepath="$PROJECT_DIR$/CSES/SortingandSearching/SortingandSearching.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Strings/Strings.iml" filepath="$PROJECT_DIR$/LeetCode/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoNights/TwoNights.iml" filepath="$PROJECT_DIR$/TwoNights/TwoNights.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/arrays/arrays.iml" filepath="$PROJECT_DIR$/LeetCode/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java/learn-java.iml" filepath="$PROJECT_DIR$/learn-java/learn-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/leetcodeTrees/leetcodeTrees.iml" filepath="$PROJECT_DIR$/LeetCode/leetcodeTrees/leetcodeTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/math/math.iml" filepath="$PROJECT_DIR$/LeetCode/math/math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resursion/resursion.iml" filepath="$PROJECT_DIR$/resursion/resursion.iml" />
     </modules>
   </component>
 </project>

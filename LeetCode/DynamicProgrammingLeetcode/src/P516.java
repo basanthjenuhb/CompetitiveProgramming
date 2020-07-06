@@ -4,9 +4,11 @@ import java.util.Arrays;
  * @author bjenuhb
  */
 
-public class P1143 {
+public class P516 {
 
-    public int longestCommonSubsequence(String text1, String text2) {
+    public int longestPalindromeSubseq(String s) {
+        String text1 = s;
+        String text2 = new StringBuilder().append(s).reverse().toString();
         int[][] dp = new int[text1.length() + 1][text2.length() + 1];
         for (int i = 0; i < dp.length; i++) {
             for (int j = 0; j < dp[i].length; j++) {
@@ -23,7 +25,6 @@ public class P1143 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new P1143().longestCommonSubsequence("abcde", "ace"));
+        System.out.println(new P516().longestPalindromeSubseq("bbbab"));
     }
-
 }
